@@ -135,8 +135,3 @@ contract KrakenToken is ERC20, AccessControl, Pausable, ReentrancyGuard {
     
     // Additional functions for governance, rewards, and network operations...
 }
-Made with
-Artifacts are user-generated and may contain unverified or potentially unsafe content.
-Report
-Remix Artifact
-
